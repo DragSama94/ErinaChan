@@ -1,0 +1,53 @@
+# CONFIG SETUP
+alluka_explain_config: "alluka_zoldyck"   #Change me from "alluka_zoldyck"
+
+bot_token: "1331350638:AAEbQnIksr1EW-OJrqQmhCEI7JgSfEFvH8c"
+owner_id: 1154348892
+api_key: 1423797
+api_hash: '25b825e1ab5ec075d8e07e6e598bd017'
+owner_username: "GreatRedDragonGodEmperor"
+database_url: "postgres://miqpbeqc:cXnvtyu7usdt0lk6oA9XyTKKQDqOpPVd@lallah.db.elephantsql.com:5432/miqpbeqc"
+message_dump: "-1001401200148"
+gban_dump: "-1001401200148"
+load: []
+no_load: []
+cert_path: None
+port: 5000
+workers: 4
+webhook: False
+url: None
+allow_excl: False
+del_cmds: False
+strict_gban: False
+strict_gmute: False
+spammers_lists: [100]
+ban_sticker: 'CAACAgUAAx0CU4SeFAACJn5fTMCY3XXgWqLRecGZfm9a0eAsAAPXAgACfaZoVgkUKdyIIP5QGwQ'
+
+
+# API SETUP
+cash_api: None  
+time_api: None  
+wall_api: None
+lydia_api: None
+sw_api: ''
+
+# Zoldyck family config
+alluka: [936828744]
+hisoka: [680240877]
+ging: [239508098]
+shizuku: [516449930]
+silva: [331863490]
+gon: [123456789] 
+illumi: [854853029]
+leorio: [575737330]
+biscuit: [586760757]
+chrollo: [806845434]
+killua: [165822682] 
+meruem: [696086626] 
+kite: [604968079] 
+
+# Permission
+dev_users: [1154348892]
+sudo_users: [644290729, 992712818]
+support_users: [644290729, 992712818]
+whitelist_users: [644290729, 992712818]
