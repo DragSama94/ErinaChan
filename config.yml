@@ -27,8 +27,8 @@ ban_sticker: 'CAACAgUAAx0CU4SeFAACJn5fTMCY3XXgWqLRecGZfm9a0eAsAAPXAgACfaZoVgkUKd
 # API SETUP
 cash_api: None  
 time_api: None  
-wall_api: None
-lydia_api: None
+wall_api: '8e160fb17406035a5469e813d40b22d0'
+lydia_api: 'd53fd0095e804111dc9debbfdb34ee8a6d9ec0fc156519fd084453d9c67ccafe17b42ce10eb0b6e4c1c205a78be876687b4712fcf3c5fbe862a4b52f54335ce3'
 sw_api: 'K0~e4cljRV18MO0tRiabIKqFNZDym9qOCnx8xJ3irtON4ghhv~xb1xTw4Cml6mjy'
 
 # Zoldyck family config
@@ -48,6 +48,6 @@ kite: [604968079]
 
 # Permission
 dev_users: [1154348892]
-sudo_users: [644290729, 992712818]
+sudo_users: []
 support_users: [644290729, 992712818]
 whitelist_users: [644290729, 992712818]
