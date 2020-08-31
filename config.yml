@@ -22,7 +22,6 @@ strict_gban: False
 strict_gmute: False
 spammers_lists: [100]
 ban_sticker: 'CAACAgUAAx0CU4SeFAACJn5fTMCY3XXgWqLRecGZfm9a0eAsAAPXAgACfaZoVgkUKdyIIP5QGwQ'
-sw_api : 'K0~e4cljRV18MO0tRiabIKqFNZDym9qOCnx8xJ3irtON4ghhv~xb1xTw4Cml6mjy'
 
 
 # API SETUP
@@ -30,7 +29,7 @@ cash_api: None
 time_api: None  
 wall_api: None
 lydia_api: None
-sw_api: ''
+sw_api: 'K0~e4cljRV18MO0tRiabIKqFNZDym9qOCnx8xJ3irtON4ghhv~xb1xTw4Cml6mjy'
 
 # Zoldyck family config
 alluka: [936828744]
