@@ -140,12 +140,12 @@ def send_start(bot, update):
     except:
         pass
     chat = update.effective_chat  # type: Optional[Chat]
-    text = "Heya there, my name is αℓℓυкα (アルカ゠ゾルディック, Aruka Zorudikku)! "
-    text += "\nI'm the second youngest child of Silva and Kikyo Zoldyck. Under unknown circumstances, I was possessed by a mysterious Dark Continent creature, My family named Nanika.."
+    text = "Heya there, my name is Nakiri Erina"
+    text += "\nI'm the Director Of Totsuki Curlinary Academy Which is the Top Curlinary Academies In the Country. I posses God Toungue."
     text += "\n\n𝕴𝖋 𝖞𝖔𝖚'𝖗𝖊 𝖓𝖎𝖈𝖊 𝖙𝖔 𝖒𝖊, 𝖞𝖔𝖚 𝖍𝖆𝖛𝖊 𝖙𝖔 𝖇𝖊 𝖓𝖎𝖈𝖊 𝖙𝖔 𝕹𝖆𝖓𝖎𝖐𝖆 𝖙𝖔𝖔!! 𝕴𝖋 𝖞𝖔𝖚'𝖗𝖊 𝖌𝖔𝖎𝖓𝖌 𝖙𝖔 𝖕𝖗𝖔𝖙𝖊𝖈𝖙 𝖒𝖊, 𝖞𝖔𝖚 𝖍𝖆𝖛𝖊 𝖙𝖔 𝖕𝖗𝖔𝖙𝖊𝖈𝖙 𝕹𝖆𝖓𝖎𝖐𝖆 𝖙𝖔𝖔!! 𝕭𝖚𝖙 𝖎𝖋 𝖞𝖔𝖚'𝖗𝖊 𝖌𝖔𝖎𝖓𝖌 𝖙𝖔 𝖇𝖊 𝖒𝖊𝖆𝖓 𝖙𝖔 𝕹𝖆𝖓𝖎𝖐𝖆, 𝕴 𝖍𝖆𝖙𝖊 𝖞𝖔𝖚!!!"  
 
     keyboard = [[InlineKeyboardButton(text="❓ Help", callback_data="help_back"),InlineKeyboardButton(text="⚙️ Connect Group", callback_data="main_connect")]]
-    keyboard += [[InlineKeyboardButton(text="🔌 Add me",url="http://t.me/zoldycktmbot?startgroup=true"),InlineKeyboardButton(text="👤 Support chat",url="https://telegram.dog/allukaSupport")]]
+    keyboard += [[InlineKeyboardButton(text="🔌 Add me",url="http://t.me/zoldycktmbot?startgroup=true"),InlineKeyboardButton(text="👤 Support chat",url="https://telegram.dog/NakiriSupportGroup")]]
 
     update.effective_message.reply_photo(HELP_PANEL_STRING.ALLUKA_IMG,text, reply_markup=InlineKeyboardMarkup(keyboard), parse_mode=ParseMode.MARKDOWN)
 
@@ -245,7 +245,7 @@ def get_help(bot: Bot, update: Update):
         update.effective_message.reply_text("Contact me in PM to get the list of possible commands.",
                                             reply_markup=InlineKeyboardMarkup(
                                                 [[InlineKeyboardButton(text="Help",url="t.me/{}?start=help".format(bot.username)),
-                                                InlineKeyboardButton(text="👥 Support chat.",url="https://telegram.dog/AllukaSupport")]]))
+                                                InlineKeyboardButton(text="👥 Support chat.",url="https://telegram.dog/NakiriSupportGroup")]]))
         return
 
     elif len(args) >= 2 and any(args[1].lower() == x for x in HELPABLE):
