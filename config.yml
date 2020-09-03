@@ -49,5 +49,5 @@ kite: [604968079]
 # Permission
 dev_users: [1154348892]
 sudo_users: []
-support_users: [644290729, 992712818]
-whitelist_users: [644290729, 992712818]
+support_users: []
+whitelist_users: []
