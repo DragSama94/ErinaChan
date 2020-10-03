@@ -11,19 +11,19 @@ def ud(bot: Bot, update: Update):
   message = update.effective_message
   text = message.text[len('/familylist '):]
   
-  sunnyimg = "https://telegra.ph/file/4aee5cfe2ba8a3fa503d0.jpg"
+  sunnyimg = ""
   sunny = """[Sunny ZoldyckFamily」](https://telegram.dog/medevilofmelodies) as Hisoka Morow.\n To get more about him do `!info @medevilofmelodies`"""
 
-  neelimg = "https://telegra.ph/file/520c4b38b71f82e312f5b.png"
+  neelimg = ""
   neel = """[Neel ZoldyckFamily」](https://telegram.dog/spookyenvy) as Kite.\n To get more about him do `!info @spookyenvy`"""
 
-  aniimg = "https://telegra.ph/file/d4888fcbdeb3261a2a9cf.png"
+  aniimg = ""
   anii = """[Anii「ZoldyckFamily」](https://telegram.dog/spookyanii) as Chrollo Lucilfer.\n To get more about him do `!info @spookyanii`"""
   
-  saharshimg = "https://telegra.ph/file/348ae7fcba0116a9a4314.jpg"
+  saharshimg = ""
   saharsh = """[Saharsh DHMN! ZoldyckFamily」](https://telegram.dog/MedevilofMarvel) as Meruem.\n To get more about him do `!info @MedevilofMarvel`"""
 
-  kanekiimg = "https://telegra.ph/file/58648d205872f999dcc71.png"
+  kanekiimg = ""
   kaneki = """[金木健 #UT #LazyAF_Geng #Toxic_Gang](https://telegram.dog/Top_Kekk) as Ging.\n To get more about him do `!info @Top_Kekk`"""
 
 
