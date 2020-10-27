@@ -130,7 +130,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("Bol Be kya hai ")
+        update.effective_message.reply_text("https://telegra.ph/file/99287cf27e598db0b672e.png")
 
 def send_start(bot, update):
     #Try to remove old message
