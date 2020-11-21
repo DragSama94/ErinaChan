@@ -21,7 +21,7 @@ del_cmds: False
 strict_gban: False
 strict_gmute: False
 spammers_lists: [100]
-ban_sticker: 'CAACAgUAAx0CU4SeFAACJn5fTMCY3XXgWqLRecGZfm9a0eAsAAPXAgACfaZoVgkUKdyIIP5QGwQ'
+ban_sticker: 'https://telegra.ph/file/55f7ec2d300674e2033bd.mp4'
 
 
 # API SETUP
