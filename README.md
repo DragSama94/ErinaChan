@@ -1,5 +1,5 @@
-# allukabot // @zoldycktmbot 
-> with HunterxHunter theme.
+# Erina Nakiri // @ErinaChanBot 
+> with Shokugeki jo Soma theme.
 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e96f7c790e574fa0ab2f774ceff6b8ef)](https://app.codacy.com/manual/anilchauhanxda/allukabot?utm_source=github.com&utm_medium=referral&utm_content=anilchauhanxda/allukabot&utm_campaign=Badge_Grade_Dashboard)
@@ -9,9 +9,9 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/anilchauhanxda/allukabot.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/anilchauhanxda/allukabot/network/) [![GitHub stars](https://img.shields.io/github/stars/anilchauhanxda/allukabot.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/anilchauhanxda/allukabot/stargazers/)
 
-Modular HunterxHunter themed Telegram Bot for managing your group with additional features.
+Modular Shokugeki no Soma themed Telegram Bot for managing your group with additional features.
 
-[![alluka](https://telegra.ph/file/4d3a649980e88c3eeb362.jpg)](https://telegram.dog/zoldycktmbot) 
+[![Erina Nakiri](https://telegra.ph/file/6de8cbdab70629c3b75d2.jpg)](https://telegram.dog/ErinaChanBot) 
 
 ### Configuration
 
