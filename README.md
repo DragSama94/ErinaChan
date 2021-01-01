@@ -1,5 +1,5 @@
 # Erina Nakiri // @ErinaChanBot 
-> with Shokugeki jo Soma theme.
+> with Shokugeki no Soma theme.
 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e96f7c790e574fa0ab2f774ceff6b8ef)](https://app.codacy.com/manual/anilchauhanxda/allukabot?utm_source=github.com&utm_medium=referral&utm_content=anilchauhanxda/allukabot&utm_campaign=Badge_Grade_Dashboard)
