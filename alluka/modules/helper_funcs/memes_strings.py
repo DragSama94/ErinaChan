@@ -51,11 +51,11 @@ RUN_STRINGS = (
 )
 
 SLAP_ALLUKA_TEMPLATES = (
-    "If you slap me one more time killua gonna kill you.",
+    "If you slap me one more time hisako gonna kill you.",
     "fuck off.",
     [
         "I am muting you for a minute.", #normal reply
-        "Stop slapping me you know who is my brother 😏", #reply to admin
+        "Stop slapping me you know who Yukihira Soma is 😏", #reply to admin
         "tmute" #command
     ]
 )
