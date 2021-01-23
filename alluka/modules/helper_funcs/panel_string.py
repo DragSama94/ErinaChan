@@ -1,7 +1,7 @@
 ALLUKA_IMG = "https://telegra.ph/file/6de8cbdab70629c3b75d2.jpg"
 
 SOURCE_STRING = """
-I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://google.com)
+I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here]()
 """
 
 HELP = """
