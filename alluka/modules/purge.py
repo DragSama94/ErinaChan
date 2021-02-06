@@ -80,8 +80,8 @@ __help__ = """
 PURGE_HANDLER = purge_messages, events.NewMessage(pattern="^[!/]purge$")
 DEL_HANDLER = delete_messages, events.NewMessage(pattern="^[!/]del$")
 
-telethn.add_event_handler(*PURGE_HANDLER)
-telethn.add_event_handler(*DEL_HANDLER)
+tbot.add_event_handler(*PURGE_HANDLER)
+tbot.add_event_handler(*DEL_HANDLER)
 
 __mod_name__ = "Purges"
 __command_list__ = ["del", "purge"]
