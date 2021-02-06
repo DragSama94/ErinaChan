@@ -1,8 +1,8 @@
 import time
 from telethon import events
 
-from alluka import telethn
-from alluka.modules.helper_funcs.telethn.chatstatus import (
+from alluka import tbot
+from alluka.modules.helper_funcs.tbot.chatstatus import (
     can_delete_messages,
     user_is_admin,
 )
