@@ -2,7 +2,7 @@ import time
 from telethon import events
 
 from alluka import tbot
-from alluka.modules.helper_funcs.telethon.chatstatus import (
+from alluka.modules.helper_funcs.chat_status import (
     can_delete_messages,
     user_is_admin,
 )
